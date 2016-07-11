@@ -1,0 +1,28 @@
+name: NJ Speedline
+favicon: null
+layout_spectrum: 0.5641750132199377
+typography_spectrum: 0.8970771110616624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2228941989596933
+  lightness: 0.8657273543067276
+  saturation: 0.04081403883174062
+  rhythmicContrast: 0.8982716035097837
+purpose: []
