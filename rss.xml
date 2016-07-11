@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NJ Speedline]]></title>
+        <description><![CDATA[NJ Speedline]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jul 2016 21:12:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>TEST</p>]]></description>
+            <link>undefinedtest/index.html</link>
+            <guid isPermaLink="false">ec696634-7f42-4863-bfe5-44e8592a82b6</guid>
+            <pubDate>Mon, 11 Jul 2016 21:12:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
